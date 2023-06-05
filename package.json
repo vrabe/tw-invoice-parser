@@ -1,0 +1,27 @@
+{
+  "name": "tw-invoice-parser",
+  "version": "0.1.0",
+  "description": "Parse data in QR codes on invoices",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrabe/tw-invoice-parser.git"
+  },
+  "keywords": [
+    "invoice"
+  ],
+  "author": "vrabe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vrabe/tw-invoice-parser/issues"
+  },
+  "homepage": "https://github.com/vrabe/tw-invoice-parser#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "js-base64": "^3.7.2"
+  },
+  "type": "module" 
+}
